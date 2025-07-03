@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/menu_change_pass"
+            android:title="Ganti Password"
+            android:icon="@drawable/ic_lock" />
+
+        <item
+            android:id="@+id/menu_logout"
+            android:title="Keluar"
+            android:icon="@drawable/ic_logout" />
+    </group>
+</menu>
